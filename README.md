@@ -8,11 +8,11 @@ Ci impegniamo a proteggere la sicurezza dei dati raccolti da Zelden e ad adottar
 
 # **Utilizzo delle Informazioni**
 
-Le informazioni raccolte da Zelden vengono utilizzate esclusivamente per migliorare l'esperienza dell'utente e ottimizzare le prestazioni del bot. Non condividiamo, vendiamo o trasferiamo in altro modo le informazioni che raccogliamo a terzi senza il tuo consenso, tranne quando richiesto dalla legge o per adempiere a obblighi legali.
+Le informazioni raccolte da Zelden vengono utilizzate esclusivamente per migliorare l'esperienza dell'utente e ottimizzare le prestazioni del bot. Non condividiamo, vendiamo o trasferiamo in altro modo le informazioni che raccogliamo a terzi senza il tuo consenso.
 
 # **Informazioni Raccolte**
 
-Zelden non raccoglie direttamente informazioni personali identificabili su di te. Tuttavia, potremmo raccogliere e memorizzare alcune informazioni tecniche non personali durante l'utilizzo del bot, come ID, dati di utilizzo, statistiche di accesso, errori di sistema e altre informazioni simili. Questi dati vengono utilizzati esclusivamente per migliorare le prestazioni e le funzionalità del nostro bot e non sono associati a identificatori personali.
+Zelden non raccoglie informazioni personali identificabili su di te. Tuttavia, potremmo raccogliere e memorizzare alcune informazioni tecniche non personali durante l'utilizzo del bot, come ID, dati di utilizzo, statistiche di accesso, errori di sistema eccetera. Questi dati vengono utilizzati SOLO per migliorare le prestazioni e le funzionalità di Zelden e non per altro.
 
 # **Modifiche all'Informativa sulla Privacy**
 
