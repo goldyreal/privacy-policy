@@ -17,3 +17,7 @@ Zelden non raccoglie informazioni personali identificabili su di te. Tuttavia, p
 # **Modifiche all'Informativa sulla Privacy**
 
 Ci riserviamo il diritto di apportare modifiche a questa Informativa sulla Privacy in qualsiasi momento e per qualsiasi motivo. Ti consigliamo di controllare periodicamente questa pagina per eventuali aggiornamenti o modifiche alla nostra Informativa sulla Privacy. Il tuo uso continuato di Zelden a seguito della pubblicazione di eventuali modifiche costituirà la tua accettazione di tali modifiche.
+
+Grazie per aver scelto Zelden!
+Per qualsiasi problema contattarci direttamente sul nostro supporto ufficiale di Discord: https://discord.gg/apbCuupq2B
+https://zelden.eu
