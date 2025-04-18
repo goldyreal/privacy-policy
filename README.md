@@ -20,4 +20,4 @@ Ci riserviamo il diritto di apportare modifiche a questa Informativa sulla Priva
 
 Grazie per aver scelto Zelden!
 Per qualsiasi problema contattarci direttamente sul nostro supporto ufficiale di Discord: https://discord.gg/apbCuupq2B
-https://zelden.eu
+https://zelden.frig.dev
